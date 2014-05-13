@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config date="1395095754241" transient="false" version="3.0">
+<site enabled="true" policy="USER-EXCLUDE" updateable="true" url="platform:/base/">
+<feature id="com.ibm.help.ic.doc" url="features/com.ibm.help.ic.doc.feature_3.4.1/" version="3.4.1">
+</feature>
+<feature id="com.ibm.help.hs.doc" url="features/com.ibm.help.hs.doc.feature_3.4.1/" version="3.4.1">
+</feature>
+</site>
+</config>

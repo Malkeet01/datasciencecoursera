@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Generated-from: 1225141634000;type=4
+Bundle-ManifestVersion: 2
+Bundle-Name: IEHS Updater NL Support
+Bundle-SymbolicName: com.ibm.iehs.updater.nl1
+Bundle-Version: 1.0.0
+Fragment-Host: com.ibm.iehs.updater;bundle-version="[1.0.0,2.0.0)"
+Bundle-Localization: plugin
